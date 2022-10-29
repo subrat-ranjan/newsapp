@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Nothing Ear (Stick) Earbuds Launched, Check out the Features and Price - BGR India",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3xkT8E8gTNk",
+      "urlToImage": null,
+      "publishedAt": "2022-10-27T10:22:57Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Express Web Desk",
+      "title": "SP leader Azam Khan convicted in 2019 hate speech case - The Indian Express",
+      "description": "A case of hate speech was filed against Khan over his comments against Uttar Pradesh Chief Minister Yogi Adityanath in 2019.",
+      "url": "https://indianexpress.com/article/cities/lucknow/sp-leader-azam-khan-convicted-in-2019-hate-speech-case-8232957/",
+      "urlToImage": "https://images.indianexpress.com/2022/10/Azam-Khan-1200-1.jpg",
+      "publishedAt": "2022-10-27T10:16:48Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "ET HealthWorld",
+      "title": "New polio cases found in nations due to pause in immunisation during Covid time: expert - ETHealthWorld",
+      "description": "The finding of the poliovirus was also a reminder that if it exists anywhere in the world, it remains a threat everywhere, said Dr Ananda Sankar Bandyopadhyay, Deputy Director of Technology, Research and Analytics at the Foundation's Polio Team.",
+      "url": "https://health.economictimes.indiatimes.com/news/industry/new-polio-cases-found-in-nations-due-to-pause-in-immunisation-during-covid-time-expert/95119599",
+      "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-95119599,imgsize-67334,width-1200,height-628,overlay-ethealthworld/new-polio-cases-found-in-nations-due-to-pause-in-immunisation-during-covid-time-expert.jpg",
+      "publishedAt": "2022-10-27T09:35:00Z",
+      "content": "Washington: A pause in the immunisation programme at the beginning of the Covid pandemic has led to the finding of fresh polio cases in countries like the US, UK and Mozambique this year, according t… [+5098 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WION" },
+      "author": "WION Web Team",
+      "title": "Ancient bacteria, shielded from harsh space radiation, might be sleeping on Martian surface - WION",
+      "description": "The results suggested that if life had existed on Mars, the remnants of past life may still be present in the planets subsurface, where future expeditions may drill into the Martian soil.",
+      "url": "https://www.wionews.com/science/ancient-bacteria-shielded-from-harsh-space-radiation-might-be-sleeping-on-martian-surface-528845",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/10/27/306541-screen-shot-2022-10-27-at-143838.png",
+      "publishedAt": "2022-10-27T09:09:07Z",
+      "content": "According to recent research, ancient microbes may be dozing beneath the surface of Mars, protected from the harsh radiation of space for millions of years. \r\nAlthough there hasn't been any proof of … [+1719 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "NDTV Sports Desk",
+      "title": "IND vs NED, T20 World Cup 2022, LIVE Updates: Virat Kohli Completes 50, Suryakumar Yadav Reaches Top Gear As India Eye Big Finish - NDTV Sports",
+      "description": "India vs Netherlands, T20 World Cup 2022, Score Updates: Virat Kohli, Rohit Sharma and Suryakumar Yadav guided India to 179/2 in 20 overs against Netherlands",
+      "url": "https://sports.ndtv.com/t20-world-cup-2022/ind-vs-ned-t20-world-cup-2022-super-12-group-2-india-vs-netherlands-live-score-updates-3465338",
+      "urlToImage": "https://c.ndtvimg.com/2022-10/rfo4si7o_virat-kohli-afp-_625x300_27_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-10-27T08:35:41Z",
+      "content": "T20 World Cup, India vs Netherlands, Super 12, Group 2 Live Updates: Virat Kohli, Rohit Sharma and Suryakumar Yadav guided India to 179/2 in 20 overs against Netherlands in Group 2 Super 12 match of … [+622 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": "Shashank Kishore",
+      "title": "India women cricketers to earn same match fee as male counterparts, BCCI secretary Jay Shah confirms - ESPNcricinfo",
+      "description": "They will earn INR 15 lakh per Test, six lakh for each ODI and three lakh for a T20I",
+      "url": "https://www.espncricinfo.com/story/india-women-cricketers-to-earn-same-match-fee-as-male-counterparts-bcci-secretary-jay-shah-confirms-1341878",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/347500/347589.6.jpg",
+      "publishedAt": "2022-10-27T08:24:35Z",
+      "content": "This is a historic decision for women's cricket in India! The pay equity policy along with the WIPL next year, we are ushering into a new era for women's cricket in India. Thank you @JayShah Sir &amp… [+121 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "\"Dear Kejriwal Ji\": BJP's Gautam Gambhir Posts Old Letter Amid Garbage Row - NDTV",
+      "description": "\"I'd like to draw your attention to the biggest landfill site in Asia, which is in my constituency,\" ex-cricketer shares 2020 letter to Mr Kejriwal",
+      "url": "https://www.ndtv.com/india-news/been-to-ghazipur-mountain-8-times-bjps-gautam-gambhir-posts-reminder-for-arvind-kejriwal-3465839",
+      "urlToImage": "https://c.ndtvimg.com/2021-12/j2geq3os_gautam-gambhir_625x300_18_December_21.jpg",
+      "publishedAt": "2022-10-27T08:15:00Z",
+      "content": "Gautam Gambhir is BJP MP from East Delhi.\r\nNew Delhi: BJP's East Delhi MP, former cricketer Gautam Gambhir took strike against Chief Minister Arvind Kejriwal over the Ghazipur landfill that falls in … [+2035 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Tech",
+      "title": "Shocking! Apple may kill off this iPhone 15 model and its not the one you think - HT Tech",
+      "description": "Apple could kill off one of its best-selling iPhone models next year, according to reports. Here’s what we know so far.",
+      "url": "https://tech.hindustantimes.com/mobile/news/shocking-apple-may-kill-off-this-iphone-15-model-and-its-not-the-one-you-think-71666855927790.html",
+      "urlToImage": "https://images.hindustantimes.com/tech/img/2022/10/27/1600x900/US-APPLE-HOLDS-LAUNCH-EVENT-FOR-NEW-PRODUCTS-AT-IT_1666856075831_1666856076034_1666856076034.jpg",
+      "publishedAt": "2022-10-27T07:35:08Z",
+      "content": "Apple has been tipped to kill off one of its iPhone 15 models next year. Apple launched four iPhone 14 models on September 7 iPhone 14, iPhone 14 Plus, iPhone 14 Pro and iPhone 14 Pro Max. While the … [+1622 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WION" },
+      "author": "WION Web Team",
+      "title": "Fatal fungi: WHO publishes first ever list of fungal infections that are `becoming a threat to humanity` - WION",
+      "description": "The global health organisation has identified 19 priority pathogens that include yeasts and moulds and are evolving and becoming resistant to treatments. Over 150 million serious infections and over 1.7 million fatalities globally are annually attributed to f…",
+      "url": "https://www.wionews.com/science/fatal-fungi-who-publishes-first-ever-list-of-fungal-infections-that-are-becoming-a-threat-to-humanity-528807",
+      "urlToImage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/10/27/306515-download.jpg",
+      "publishedAt": "2022-10-27T07:31:42Z",
+      "content": "The World Health Organization (WHO) has released a list of more than a dozen fungus that are dangerous to the general public's health.\r\nThe global health organisation has identified 19 \"priority path… [+2572 chars]"
+    },
+    {
+      "source": { "id": null, "name": "OpIndia" },
+      "author": "OpIndia Staff",
+      "title": "Bollywood filmmaker rams wife with his car after being caught with another woman by her, video viral - OpIndia",
+      "description": "After being caught by his wife, Kamal Kishor tried to escape from the spot, running over his wife, who later registered the complaint. | OpIndia News",
+      "url": "https://www.opindia.com/2022/10/filmmaker-kamal-kishor-sharma-runs-over-wife-after-being-caught/",
+      "urlToImage": "https://www.opindia.com/wp-content/uploads/2022/10/Kamal-Kishor-Mishra-575x321-1.jpg",
+      "publishedAt": "2022-10-27T07:27:10Z",
+      "content": "Mumbai police have registered a case under sections 279 and 338 of the Indian Penal Code (IPC) against film producer Kamal Kishor Mishra for allegedly ramming his car into his wife after she spotted … [+1327 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Koimoi" },
+      "author": "Joginder Tuteja",
+      "title": "Ram Setu Box Office Day 2: Akshay Kumar Starrer Stays In Double Digits On Wednesday - Koimoi",
+      "description": "After taking an opening of 15.25 crores on Tuesday, Ram Setu had at least established a base for itself from where it could.",
+      "url": "https://www.koimoi.com/?p=933654",
+      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/10/box-office-ram-setu-stays-in-double-digits-on-wednesday-001.jpg",
+      "publishedAt": "2022-10-27T06:48:20Z",
+      "content": "Box Office – Ram Setu stays in double digits on Wednesday ( Photo Credit A Still From Ram Setu )\r\nAfter taking an opening of 15.25 crores at the box office on Tuesday, Ram Setu had at least establish… [+1662 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Tribune India" },
+      "author": "The Tribune India",
+      "title": "When asked if Haryana CM had a role in Ram Rahim's parole, this is what Manohar Lal Khattar said - The Tribune India",
+      "description": "Haryana Chief Minister Manohar Lal Khattar has said he had no role in the parole granted to Dera Sacha Sauda chief Gurmeet Ram Rahim Singh as jails have their own rules.",
+      "url": "https://www.tribuneindia.com/news/haryana/when-asked-if-haryana-cm-had-a-role-in-ram-rahims-parole-this-is-what-manohar-lal-khattar-said-444812",
+      "urlToImage": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_202330686.jpg",
+      "publishedAt": "2022-10-27T06:27:00Z",
+      "content": "PTI\r\nNew Delhi, October 27\r\nHaryana Chief Minister Manohar Lal Khattar has said he had no role in the parole granted to Dera Sacha Sauda chief Gurmeet Ram Rahim Singh as jails have their own rules.\r\n… [+1398 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT News Desk",
+      "title": "'Ye perfect hai…': BJP leader's Shivaji-on-note dig at Kejriwal - Hindustan Times",
+      "description": "Arvind Kejriwal had suggested images of Ganesha and Lakshmi be used on currency notes to help boost the Indian economy. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/ye-perfect-hai-bjp-leader-s-shivaji-on-note-dig-at-kejriwal-101666851112738.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/10/27/1600x900/rane_note_1666851217537_1666851262922_1666851262922.jpg",
+      "publishedAt": "2022-10-27T06:19:57Z",
+      "content": "A 200 note - photoshopped to feature Maratha king and icon Chhatrapati Shivaji - was tweeted Wednesday by BJP leader Nitesh Rane as a response to Delhi chief minister Arvind Kejriwal's rather unique … [+1915 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "Sunil Shankar Matkar",
+      "title": "Top 10 trading ideas for next 3-4 weeks with bulls ready to reign Dalal Street - Moneycontrol",
+      "description": "MCX India has witnessed a breakout of a bullish double bottom pattern formation on the longer time frame while on the daily chart; it has given a breakout of a bullish Inverse Head &amp; Shoulder pattern with huge volume.",
+      "url": "https://www.moneycontrol.com/news/business/markets/top-10-trading-ideas-for-next-3-4-weeks-with-bulls-ready-to-reign-dalal-street-9383951.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/09/Mutual-Funds_Sensex_personal-finance-770x433.png",
+      "publishedAt": "2022-10-27T05:56:50Z",
+      "content": "The market had a strong start to the Samvat 2079 as the benchmark indices gained nearly a percent each on October 24, the Muhurat trading session,  tracking the positive mood in global counterparts. … [+9763 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India Today" },
+      "author": "Abhik Sengupta",
+      "title": "Realme 10 series confirmed to launch in November, here is what we know - India Today",
+      "description": "Realme is yet to confirm the exact launch date. One of the models will feature a curved display, Realme hints.",
+      "url": "https://www.indiatoday.in/technology/news/story/realme-10-pro-plus-series-launch-confirmed-november-all-details-2289962-2022-10-27",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/realme10series-sixteen_nine.jpg?VersionId=jLgUPx5JLowixUSJP1QhPKUjHYPM2S10",
+      "publishedAt": "2022-10-27T05:48:31Z",
+      "content": "By Abhik Sengupta: Realme has confirmed the launch of its next-generation Realme 10 series in November. It appears the smartphone(s) will first launch in China and reach global markets, including Ind… [+1797 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "'Op Lotus' In Telangana? Caught Attempt To Bribe KCR's MLAs, Claim Cops - NDTV",
+      "description": "Allegations of an \"Operation Lotus\" have emerged in Telangana after the police on Wednesday claimed to have detained three persons allegedly caught in the act of bribing four MLAs of the state's ruling TRS into switching sides.",
+      "url": "https://www.ndtv.com/telangana-news/operation-lotus-in-telangana-caught-attempt-to-bribe-kcrs-mlas-claim-cops-3465285",
+      "urlToImage": "https://c.ndtvimg.com/2022-10/hjsnq58o_telangana-mlas-bribedoperation-lotus-oct-26_625x300_27_October_22.jpg",
+      "publishedAt": "2022-10-27T05:33:00Z",
+      "content": "The deal was brokered at the farmhouse of one of the MLAs.\r\nAllegations of an \"Operation Lotus\" are raging in Telangana after the police on Wednesday claimed to have detained three persons allegedly … [+3200 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Pawan Nahar",
+      "title": "NMDC stock trades ex-demerger, rallies 15% - Economic Times",
+      "description": "The record date for the same is fixed as Friday, October 28, which means that investors holding the delivery of shares as of the given date would be eligible for the stake in the new entity. Investors, who bought the shares on Tuesday, October 25, will also b…",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nmdc-stock-trades-ex-demerger-hits-10-upper-circuit/articleshow/95113254.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-95113235,width-1070,height-580,imgsize-87812,overlay-etmarkets/photo.jpg",
+      "publishedAt": "2022-10-27T05:09:00Z",
+      "content": "New Delhi: Shares of rallied 15% in Thursday's trade on an adjusted basis after the company demerged its steel business from the core mining business.\r\nThe company will separately list its steel enti… [+1495 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Divya Goyal",
+      "title": "Now from inside Patiala jail, an ongoing Navjot Singh Sidhu saga - The Indian Express",
+      "description": "Ignores multiple summons to appear as witness in a case involving fellow Punjab ex-minister; cites reasons from security to health: “I am preventing rather than repenting”",
+      "url": "https://indianexpress.com/article/political-pulse/navjot-singh-sidhu-patiala-jail-security-bharat-bhushan-ashu-8232336/",
+      "urlToImage": "https://images.indianexpress.com/2022/10/sidhu-2.jpg",
+      "publishedAt": "2022-10-27T05:00:50Z",
+      "content": "Two former Congress ministers from Punjab are currently lodged in the same Patiala Central Jail — one an accused, the other a witness in his case.The witness is former Punjab Congress president and a… [+4705 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Coimbatore car blast | Police arrest sixth suspect - The Hindu",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL2NpdGllcy9Db2ltYmF0b3JlL3NpeHRoLXN1c3BlY3QtYXJyZXN0ZWQtaW4tY29pbWJhdG9yZS1jYXItYmxhc3QtY2FzZS9hcnRpY2xlNjYwNTk1ODkuZWNl0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-10-27T04:59:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": null,
+      "title": "Live Cricket Score - South Africa vs Bangladesh, Super 12, T20 WC 2022 | Cricbuzz.com - Cricbuzz - Cricbuzz",
+      "description": "Catch all the live updates of South Africa vs Bangladesh, Super 12, T20 World Cup 2022",
+      "url": "https://www.cricbuzz.com/cricket-news/124283/live-cricket-score-south-africa-vs-bangladesh-super-12-t20-world-cup-2022",
+      "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c245956/de-kock-and-rossouw-added-168.jpg",
+      "publishedAt": "2022-10-27T04:48:00Z",
+      "content": "Bangladesh 101-10 (16.3 Ovs)\r\nSouth Africa won by 104 runs\r\nDe Kock and Rossouw added 168 for the second wicket. © AFP\r\nMassive win\r\nA much-needed win after the washout against Zimbabwe for South Afr… [+8025 chars]"
+    }
+  ]
+}
