@@ -6,7 +6,7 @@ export class Navbar extends Component {
   render() {
     return (
       <div>
-        <nav className=" navbar-expand-lg navbar navbar-dark bg-dark">
+        <nav className=" fixed-top navbar-expand-lg navbar navbar-dark bg-dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
               News Master

@@ -5,8 +5,22 @@ export class NewsItems extends Component {
     let { title, description, imageUrl, newsUrl, author, date, source } = this.props;
     return (
       <div className="my-3">
+
         <div className="shadow card news_card">
-          <span className="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{ left: '90%', zIndex: '1' }}> {source}</span>
+
+
+          <div style={{
+            display: "flex",
+            justifyContent: "flex-end",
+            position: "absolute",
+            right: "0"
+
+
+          }}>
+
+
+            <span className=" badge rounded-pill bg-danger" style={{ left: '90%', zIndex: '1' }}> {source}</span>
+          </div>
           <img
             src={
               !imageUrl
